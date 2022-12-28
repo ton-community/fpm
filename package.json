@@ -1,0 +1,20 @@
+{
+  "name": "fpm",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.11.18",
+    "@types/prompt": "^1.1.4",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "arg": "^5.0.2",
+    "fp-ts": "^2.13.1",
+    "io-ts": "^2.2.20",
+    "prompt": "^1.3.0",
+    "recursive-copy": "^2.0.14",
+    "simple-git": "^3.15.1"
+  }
+}
